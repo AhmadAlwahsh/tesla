@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AhmadAlwahsh2007/tesla.git/static/css/main.1f33e64f.css",
+    "main.js": "/AhmadAlwahsh2007/tesla.git/static/js/main.1ac2b399.js",
+    "index.html": "/AhmadAlwahsh2007/tesla.git/index.html",
+    "main.1f33e64f.css.map": "/AhmadAlwahsh2007/tesla.git/static/css/main.1f33e64f.css.map",
+    "main.1ac2b399.js.map": "/AhmadAlwahsh2007/tesla.git/static/js/main.1ac2b399.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f33e64f.css",
+    "static/js/main.1ac2b399.js"
+  ]
+}
